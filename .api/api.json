@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "mixpaneldevdocs",
+      "source": "@mixpaneldevdocs/v3.26#7wy2p23lzwfclpf",
+      "integrity": "sha512-68J5z2ME0LmZ8IfyiId16EXvIQDxNFdZKjFp8IuNqbNzZqp9MCYAOouZviB4rx2v/UqGMZLSYOmQRpOpekzIlg==",
+      "installerVersion": "6.1.2"
+    }
+  ]
+}

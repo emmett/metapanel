@@ -1,6 +1,7 @@
 {
   "name": "mp_meta",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "requests": "^0.3.0"
+    "@api/mixpaneldevdocs": "file:.api/apis/mixpaneldevdocs",
+    "base-64": "^1.0.0",
+    "lodash": "^4.17.21"
   }
 }
